@@ -1,33 +1,35 @@
-![Banner](https://assets.onecompiler.app/432jwxm7x/43h9jjutu/InShot_20250509_223322318.jpg)
+![Banner](https://assets.onecompiler.app/432jwxm7x/43h9k246n/InShot_20250509_223322318.jpg)
 
 =====
 
-![License](https://img.shields.io/badge/License-GPLv2-blue.svg)
-[![Chat on Discord](https://img.shields.io/badge/Discord-5865f2?logo=discord&logoColor=white)](https://discordapp.com/invite/ZdqEhed)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+[![Chat on Discord](https://img.shields.io/badge/Discord-5865f2?logo=discord&logoColor=white)](https://discord.gg/9YKC3e2s4N)
+[![Email](https://img.shields.io/badge/Email-support@timexostudios.wuaze.com-blue?logo=gmail&logoColor=white)](mailto:support@timexostudios.wuaze.com)
+[![Website](https://img.shields.io/badge/Website-timexostudios.wuaze.com-black?logo=firefox-browser&logoColor=white)](https://timexostudios.wuaze.com)
 
-**Dieses Projekt ist ein realistisches Rally-Spiel für ambitionierte Fahrer – gebaut mit Liebe zum Detail und einem Fokus auf intensives, immersives Fahrerlebnis.**
+**This project is a realistic rally game for passionate drivers – built with great attention to detail and a strong focus on immersive and intense driving experiences.**
 
-Components
+Description
 =====
 
-Dieses Spiel besteht aus mehreren Kernkomponenten, die ein vollständiges Rally-Erlebnis ermöglichen:
+The game is made up of several core components that work together to create an authentic rally racing experience:
 
-* **Fahrphysik:** Eine komplexe Physik-Engine simuliert Traktion, Gewicht, Drift und Bodenhaftung je nach Untergrund (Schotter, Asphalt, Schnee, Schlamm).
-* **Wetter- & Tageszeiten-System:** Dynamisches Wetter mit Regen, Nebel, Gewitter sowie Tag-/Nachtwechsel – alles beeinflusst die Sicht und Fahrzeugkontrolle.
-* **Streckensystem:** Vielseitige, handgefertigte Rally-Strecken, inspiriert von realen Weltmeisterschaften – inklusive Sprungzonen, engen Kurven und tückischen Steigungen.
-* **Fahrzeugmodellierung:** Detaillierte Rally-Fahrzeuge mit Schadensmodell, Sounddesign und Partikelsystemen für realistische Rückmeldungen bei jedem Fahrzustand.
-* **Benutzeroberfläche & Setup:** Intuitive Menüs, einstellbare Fahrzeug-Setups und optionale Fahrhilfen für Einsteiger und Profis.
+* **Driving Physics:** A sophisticated simulation engine models traction, weight transfer, drifting, and grip depending on surface type (gravel, asphalt, snow, mud).
+* **Dynamic Weather & Time:** Weather effects like rain, fog, and thunderstorms combined with day-night transitions impact visibility and control.
+* **Track System:** A variety of handcrafted rally stages inspired by real-world events, featuring jumps, tight corners, and dangerous climbs.
+* **Vehicle Modeling:** Highly detailed rally cars with a full damage system, immersive sound design, and particle systems for realistic feedback in every situation.
+* **Interface & Setup:** Intuitive menus, adjustable car setups, and optional driving assists tailored to both newcomers and veterans.
 
-Ziel ist es, die rohe Essenz des Rallysports einzufangen – mit einer Steuerung, die präzise, fordernd und belohnend ist. Das Spiel verlangt Konzentration, schnelle Reaktionen und das Verständnis für jede noch so kleine Streckeneigenschaft.
+The goal is to capture the raw essence of rally racing – with tight, demanding controls that reward precision and mastery. Each stage challenges your reflexes, memory, and feel for the terrain.
 
 Licensing
 =====
 
-Dieses Projekt ist unter der GPLv2 lizenziert.  
-Die vollständigen Lizenzbedingungen findest du in der Datei [LICENSE.txt](LICENSE.txt) im Hauptverzeichnis des Repositories.
+This project is licensed under the MIT License.  
+You can view the full license terms in the [LICENSE.txt](LICENSE.txt) file in the root directory.
 
 Credits
 =====
 
 Atmosphère is currently being developed and maintained by __SciresM__, __TuxSH__, __hexkyz__, and __fincs__.<br>
-_In no particular order..._ *(Credits werden später angepasst.)*
+*(Credits will be updated soon.)*
