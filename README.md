@@ -20,6 +20,22 @@ The game is made up of several core components that work together to create an a
 * **Vehicle Modeling:** Highly detailed rally cars with a full damage system, immersive sound design, and particle systems for realistic feedback in every situation.
 * **Interface & Setup:** Intuitive menus, adjustable car setups, and optional driving assists tailored to both newcomers and veterans.
 
+Screenshots
+=====
+
+Here are some in-game screenshots showcasing various rally stages, weather effects, and vehicles:
+
+![Screenshot 1](LINK_TO_IMAGE_1)
+*Night rally stage under heavy rain.*
+
+![Screenshot 2](LINK_TO_IMAGE_2)
+*Gravel road with intense drifting action.*
+
+![Screenshot 3](LINK_TO_IMAGE_3)
+*Mountain pass with fog and sunrise.*
+
+<!-- Replace the above "LINK_TO_IMAGE_X" with your actual image URLs. -->
+
 The goal is to capture the raw essence of rally racing – with tight, demanding controls that reward precision and mastery. Each stage challenges your reflexes, memory, and feel for the terrain.
 
 Licensing
