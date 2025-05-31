@@ -25,7 +25,7 @@ Screenshots
 
 Here are some in-game screenshots showcasing various rally stages, weather effects, and vehicles:
 
-![Screenshot 1](LINK_TO_IMAGE_1)
+![Screenshot 1](https://assets.onecompiler.app/432jwxm7x/43ke2nmjg/Screenshot%202025-05-31%20231822.png)
 *Night rally stage under heavy rain.*
 
 ![Screenshot 2](LINK_TO_IMAGE_2)
