@@ -28,11 +28,11 @@ Here are some in-game screenshots showcasing various rally stages, weather effec
 ![Screenshot 1](https://assets.onecompiler.app/432jwxm7x/43ke2nmjg/Screenshot%202025-05-31%20231822.png)
 *Night rally stage under heavy rain.*
 
-![Screenshot 2](LINK_TO_IMAGE_2)
-*Gravel road with intense drifting action.*
+![Screenshot 2](https://assets.onecompiler.app/432jwxm7x/43ke2nmjg/Screenshot%202025-05-31%20231630.png)
+*Asphalt road with intense drifting action.*
 
-![Screenshot 3](LINK_TO_IMAGE_3)
-*Mountain pass with fog and sunrise.*
+![Screenshot 3](https://assets.onecompiler.app/432jwxm7x/43ke2nmjg/Screenshot%202025-05-31%20231255.png)
+*Mud and wet road of united stages*
 
 <!-- Replace the above "LINK_TO_IMAGE_X" with your actual image URLs. -->
 
