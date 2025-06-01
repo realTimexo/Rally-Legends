@@ -47,5 +47,49 @@ You can view the full license terms in the [LICENSE.txt](LICENSE.txt) file in th
 Credits
 =====
 
-Atmosphère is currently being developed and maintained by __SciresM__, __TuxSH__, __hexkyz__, and __fincs__.<br>
-*(Credits will be updated soon.)*
+Producer: Timexo
+
+Translations: Timexo
+
+Music: Jonathan Colling
+
+Sound Effects: Timexo
+
+Voice: Timexo
+
+Paticels: Timexo
+
+Online Mode: Timexo
+             Photon Network
+
+AI: Timexo
+
+Animations: Timexo
+            Mixamo
+
+Designer: Timexo
+          The Developer
+          Jimmy Vegas
+          Brackeys
+
+Models: Timexo
+        Sketchfab
+        MeshyAI
+
+Textures: Timexo
+
+Effects: Timexo
+
+Programming: Sigma´s United
+             Copilot
+             Rehope Games
+             Zukomazi
+
+Marketing: Timexo
+
+Testing: Timexo
+         Markus Niehoff
+         Oliwer Gajer
+
+Special Thanks: MicroSD
+                Markus Niehoff
